@@ -1,0 +1,28 @@
+h1{
+    color: green;
+    font-size: 30px;
+    font-family: "Times New Roman";
+    font-weight: 50px;
+    line-height: 50px;
+    text-decoration:none;
+    text-transform: uppercase;
+
+}
+p{
+    font-size: 20px;
+    line-height: 1.25;/*1.5 tu dong dieu chinh*/
+    color: black;
+    width: 600px;
+    text-align: justify;
+    background-color: aliceblue;
+    border: 1px;
+
+}
+img{
+    max-width: 100px;
+}
+body{
+    background-image:url('img/anhnen2.jpg') /*link anh*/;
+    background-repeat: no-repeat;
+    background-size: cover  ;
+}
