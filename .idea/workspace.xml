@@ -19,16 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="785ad5f6-399e-4309-bdda-2035cd625e2f" name="Default Changelist" comment="sua">
-      <change afterPath="$PROJECT_DIR$/ass2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ass2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chinhvb.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="785ad5f6-399e-4309-bdda-2035cd625e2f" name="Default Changelist" comment="lab1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ss2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ass2.css" beforeDir="false" afterPath="$PROJECT_DIR$/ass2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ass2.html" beforeDir="false" afterPath="$PROJECT_DIR$/ass2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +70,7 @@
       <workItem from="1602045004876" duration="20000" />
       <workItem from="1602045059449" duration="23000" />
       <workItem from="1602045352544" duration="7000" />
-      <workItem from="1602045374275" duration="8322000" />
+      <workItem from="1602045374275" duration="11895000" />
     </task>
     <task id="LOCAL-00001" summary="sua">
       <created>1602045484127</created>
@@ -85,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602045484127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lab1">
+      <created>1602143966860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602143966860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,17 +105,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sua" />
-    <option name="LAST_COMMIT_MESSAGE" value="sua" />
+    <MESSAGE value="lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602045429846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602045429846" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602045488127">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602143975947">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602045488127" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602143975947" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602126541731">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
