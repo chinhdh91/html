@@ -1,0 +1,21 @@
+body{
+    width: 1190px;
+    height: 970px;
+
+}
+#main1{
+    margin:50px 172px 0px 172px;
+}
+#left{
+    width: 241px;
+    height: 900px;
+    float:left;
+    margin-left: 40px;
+    margin-bottom: -143px;
+}
+ing{
+
+}
+body{
+    background-image: url("img/covid1.png");
+}

@@ -1,0 +1,28 @@
+body{
+
+    background-color: #f2f2f2;
+    color:#242424;
+    line-height: 1.25;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "Roboto", sans-serif;
+}
+div{
+
+    width: 1000px;
+    height: 2000px;
+    border: 1px solid green;
+    padding: 10px 20px 15px 5px;
+    float: left;
+    margin: 20px;
+    box-sizing: border-box;
+    overflow: hidden;
+
+}
+img{
+    width: 100% ;
+
+}
+#anh{
+    width: 1000px;
+}
