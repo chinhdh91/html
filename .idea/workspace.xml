@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="785ad5f6-399e-4309-bdda-2035cd625e2f" name="Default Changelist" comment="ass2">
-      <change afterPath="$PROJECT_DIR$/div.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/div.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lads4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vdpopup.html" afterDir="false" />
+    <list default="true" id="785ad5f6-399e-4309-bdda-2035cd625e2f" name="Default Changelist" comment="labs4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +39,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iXDNd8HY9GZfMMZ1hoEE8l0RnC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -76,7 +72,7 @@
       <workItem from="1602045004876" duration="20000" />
       <workItem from="1602045059449" duration="23000" />
       <workItem from="1602045352544" duration="7000" />
-      <workItem from="1602045374275" duration="30978000" />
+      <workItem from="1602045374275" duration="32147000" />
     </task>
     <task id="LOCAL-00001" summary="sua">
       <created>1602045484127</created>
@@ -120,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602149417573</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="labs4">
+      <created>1602477740928</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602477740928</updated>
+    </task>
+    <task id="LOCAL-00008" summary="labs4">
+      <created>1602477848426</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602477848426</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,20 +148,22 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="sua" />
     <MESSAGE value="lab1" />
     <MESSAGE value="ass2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ass2" />
+    <MESSAGE value="labs4" />
+    <option name="LAST_COMMIT_MESSAGE" value="labs4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602045429846">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602045429846" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602149421903">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602477854283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602149421903" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602477854283" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1602466295524">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
