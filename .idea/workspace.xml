@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="785ad5f6-399e-4309-bdda-2035cd625e2f" name="Default Changelist" comment="labs4">
-      <change afterPath="$PROJECT_DIR$/img/iphone12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labs5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vdcss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vdcss.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="785ad5f6-399e-4309-bdda-2035cd625e2f" name="Default Changelist" comment="labs6" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +70,7 @@
       <workItem from="1602045004876" duration="20000" />
       <workItem from="1602045059449" duration="23000" />
       <workItem from="1602045352544" duration="7000" />
-      <workItem from="1602045374275" duration="51612000" />
+      <workItem from="1602045374275" duration="52016000" />
     </task>
     <task id="LOCAL-00001" summary="sua">
       <created>1602045484127</created>
@@ -144,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602639455249</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="labs6">
+      <created>1603070818908</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603070818908</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +165,8 @@
     <MESSAGE value="lab1" />
     <MESSAGE value="ass2" />
     <MESSAGE value="labs4" />
-    <option name="LAST_COMMIT_MESSAGE" value="labs4" />
+    <MESSAGE value="labs6" />
+    <option name="LAST_COMMIT_MESSAGE" value="labs6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="735" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602646559756">
@@ -178,10 +177,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602045429846" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602639459057">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603071155769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602639459057" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603071155769" />
     <state x="1195" y="0" width="741" height="717" key="dock-window-1" timestamp="1602646805216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
